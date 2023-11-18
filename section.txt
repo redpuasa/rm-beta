@@ -1,0 +1,29 @@
+End User Computing (EUC)
+Network
+Cloud Infrastructure
+Data Centre (GNOC1)
+Data Centre (GNOC2)
+Central Intranet Platform (CIP)
+SCOM
+Central Web Hosting (CWH)
+Enterprise Communication
+E-Services Application
+Service Desk & Business Relationship Management (SDBRM)
+Asset & Capacity Management
+TD123 & Problem Management (TD123)
+Change & Release Management
+Solution Architect Office (SAO)
+Data Management Office (DMO)
+Digital Services Development Division (DSD)
+Programme Management Office (PGMO)
+Planning & Governance (PGO)
+Project Management Office (PRMO)
+Administration
+Information & Facilities Management (SPMF)
+Resource Management 
+Capability Development
+Finance
+Procurement
+Legal & Contract Management Office (LCM)
+Business Process Improvement Office (BPIO)
+Risk Management Office (RMO)
